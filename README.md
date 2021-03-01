@@ -1,2 +1,2 @@
-# wp-resolusi
-repository untuk menyimpan wp ke depan
+Nama: Mauludin
+TTL: Ndendek, 14-06-2000
